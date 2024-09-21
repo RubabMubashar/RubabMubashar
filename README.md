@@ -1,5 +1,5 @@
 <h2>Hi There 👋 I`m Rubab Mubashar </h2>
-<h1>I`m  <Full Stack Developer/> & Graphic Designer</h1>
+<h1>I`m  &lt;Full Stack Developer /&gt; & Graphic Designer</h1>
 <ul>
   <li>🌱 I'm currently learning MERN.</li>
   <li>💻 I have worked with Both CMS & Coding Base Projects.</li>  
