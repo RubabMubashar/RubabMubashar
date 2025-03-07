@@ -10,5 +10,6 @@
 <h1>🛠️ Skills</h1>
 <p><b>Languages:</b> HTML , CSS , JAVASCRIPT , PHP , MY SQL </p>
 <p><b>Frameworks & Libraries:</b> BOOTSTRAP , TAILWIND , JQUERY , React.js </p>
+<p><b>CMS Base:</b> WORDPRESS , SHOPIFY , FRAMER , WIX</p>
 <p><b>Tools:</b> Github , Canva , Adobe-Photoshop , Adobe-Illustrator , CapCut </p>
 
